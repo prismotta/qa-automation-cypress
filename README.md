@@ -1,3 +1,5 @@
+[![Cypress Tests](https://github.com/prismotta/qa-automation-cypress/actions/workflows/cypress.yml/badge.svg)](https://github.com/prismotta/qa-automation-cypress/actions)
+
 # QA Automation - Cypress
 
 Projeto de automação de testes E2E e API utilizando Cypress com padrão Page Object.
