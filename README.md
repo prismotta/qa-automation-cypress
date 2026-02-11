@@ -51,6 +51,12 @@ Executar Cypress:
 
 npx cypress open
 
+## Observação
+
+Este projeto replica os mesmos cenários automatizados no repositório "qa-automation-python",
+demonstrando conhecimento em diferentes stacks de automação (Selenium + Pytest e Cypress).
+
+
 ## Autora
 
 Priscila Motta
