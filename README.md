@@ -12,6 +12,12 @@ Abaixo está um exemplo da execução automatizada dos cenários de checkout.
 
 ---
 
+## Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar automação de testes E2E e API utilizando Cypress, aplicando boas práticas como Page Object Model, organização de cenários de teste, rastreabilidade e integração contínua com GitHub Actions.
+
+---
+
 ## Tecnologias Utilizadas
 
 - Cypress
@@ -114,7 +120,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 Este projeto replica os mesmos cenários automatizados presentes no repositório **qa-automation-python**, demonstrando conhecimento em diferentes stacks de automação:
 
 - Cypress + JavaScript
-- Selenium + Pytest + Python
+- Selenium WebDriver + Pytest + Python
 
 ---
 
@@ -122,5 +128,5 @@ Este projeto replica os mesmos cenários automatizados presentes no repositório
 
 **Priscila Motta**
 
-- LinkedIn: https://www.linkedin.com/in/prismotta
-- GitHub: https://github.com/prismotta
+- LinkedIn: [linkedin.com/in/prismotta](https://www.linkedin.com/in/prismotta)
+- GitHub: [github.com/prismotta](https://github.com/prismotta)
