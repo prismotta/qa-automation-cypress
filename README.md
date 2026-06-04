@@ -8,7 +8,7 @@ Projeto de automação de testes E2E e API utilizando Cypress com padrão Page O
 
 Abaixo está um exemplo da execução automatizada dos cenários de checkout.
 
-![Execução dos testes](C:\Users\User\Desktop\projetinhos\qa_cypress\assets\checkout-tests.png)
+![Execução dos testes](assets/checkout-tests.png)
 
 ---
 
